@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    background-color: whitesmoke;
+    max-width: fit-content;
+    max-height: fit-content;
+    font-size: 20px;
+}
+
+.swedish {
+    height: 400px;
+    width: auto;
+}
+
+.title {
+    color: rebeccapurple;
+    text-decoration-color: white;
+}
+
+div {
+    font-size: 50px;
+}
